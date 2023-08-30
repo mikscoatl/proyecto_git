@@ -1,0 +1,8 @@
+pwd                                         muestra la ruta actual
+ls                                          muestra los archivos en la ruta actual
+git init                                    inicializa el repositorio git en la ruta actual
+git status                                  muetra el status de los archivos
+git add nobrearch                           añade el archivo al entorno
+git commit                                  crear el primer punto de partida ??
+git config --global.user.email "email"      crea un usuario
+git config --global user.name "nombre"      crea el nombre del usuario
