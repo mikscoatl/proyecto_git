@@ -8,3 +8,4 @@ git config --global.user.email "email"      crea un usuario
 git config --global user.name "nombre"      crea el nombre del usuario 
 git checkout -- nombrearchivo               dismiss the changes en el archivo 
 git diff nombrearchivo                      muestra los cambioes hechos en el archivo<<
+git log                                     muestra el log de cambios (foto)
